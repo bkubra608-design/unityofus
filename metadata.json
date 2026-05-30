@@ -1,0 +1,6 @@
+{
+  "name": "VaccineShield Pro",
+  "description": "Smart Immunization Management & Disease Prevention Platform against 12 deadly vaccine-preventable diseases with multi-user POS, cold-chain, inventory, and analytics support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
